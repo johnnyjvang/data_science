@@ -1,0 +1,4 @@
+,model,best_score,best_params,best_estimator
+0,linear_regression,0.8477957812447865,{'fit_intercept': 'true'},LinearRegression(fit_intercept='true')
+1,lasso,0.7268537618546291,"{'alpha': 2, 'selection': 'random'}","Lasso(alpha=2, selection='random')"
+2,decision_tree,0.7406580747589958,"{'criterion': 'squared_error', 'splitter': 'random'}",DecisionTreeRegressor(splitter='random')
